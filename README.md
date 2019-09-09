@@ -30,8 +30,8 @@
     </nav>
     <header class="masthead text-center text-white d-flex" style="background-image:url('assets/img/header.jpg');">
         <div class="container my-auto">
-            <div class="col-lg-8 mx-auto"><p class="text-faded mb-5"><br /><strong><em><fontcolor ="black ">There&#39;s no reality in my imagination..All the things will go for my dreams..All the difficulties will give the way to my dreams..</em></strong><br /><strong><em>There&#39;s no more dark spots which enlarges..</em></strong><br /><strong><em>All there is my goal,my dreams,and my own world.......</em></strong><br
-    /><br /></font></p><a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="#services">Find Out More</a></div>
+            <div class="col-lg-8 mx-auto"><p class="text-faded mb-5"><br /><strong><em>There is no reality in my imagination..All the things will go for my dreams..All the difficulties will give the way to my dreams..</em></strong><br /><strong><em>There is no more dark spots which enlarges..</em></strong><br /><strong><em>All there is my goal,my dreams,and my own world.......</em></strong><br
+    /><br /></p><a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="#services">Find Out More</a></div>
         </div>
     </header>
     <section id="about" class="bg-primary">
