@@ -1,1 +1,1 @@
-This web page contain the my portfolio.
+This web page includes my portfolio.
