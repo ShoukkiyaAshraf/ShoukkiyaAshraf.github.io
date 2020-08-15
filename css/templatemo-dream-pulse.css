@@ -708,7 +708,7 @@ figure.effect-bubba:hover p {
     padding: 50px 30px;
   }
   b {
-  padding-left: 15px;
+  padding-left: 15 px;
   position: relative;
   font-family: sans-serif;
   text-transform: uppercase;
@@ -746,7 +746,7 @@ figure.effect-bubba:hover p {
   -webkit-text-fill-color: rgba(255, 255, 255, 0);
 }
 }
-@media (max-width: 350px) {
+@media (max-width: 400px) {
   .tm-section {
     padding: 0;
     float: left;
