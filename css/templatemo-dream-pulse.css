@@ -838,7 +838,7 @@ body{
   font-size: 1.5em;
   letter-spacing: 4px;
   overflow: hidden;
-  background: linear-gradient(270deg,  #fff,#000,#000);
+  background: linear-gradient(270deg,  #fff,#fff,#fff);
   background-repeat: no-repeat;
   background-size: 80%;
   animation: animate 10s linear infinite;
