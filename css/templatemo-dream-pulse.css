@@ -831,13 +831,14 @@ body{
   }
   b {
   padding-left: 15px;
+  padding-bottom: 5px;
   position: relative;
   font-family: sans-serif;
   text-transform: uppercase;
   font-size: 1.5em;
   letter-spacing: 4px;
   overflow: hidden;
-  background: linear-gradient(270deg,  #000,#7F79F9,#000f);
+  background: linear-gradient(270deg,  #fff,#000,#000);
   background-repeat: no-repeat;
   background-size: 80%;
   animation: animate 10s linear infinite;
@@ -928,7 +929,7 @@ a{
   font-size: 1rem;
 }
 .parallax-window {
-  min-height: 451px;
+  min-height: 500px;
   background: transparent;
   
 }
@@ -941,13 +942,14 @@ body{
   }
   b {
   padding-left: 15px;
+  padding-bottom: 0px;
   position: relative;
   font-family: sans-serif;
   text-transform: uppercase;
-  font-size: 1.5em;
+  font-size: 2.7em;
   letter-spacing: 4px;
   overflow: hidden;
-  background: linear-gradient(270deg,  #fff,#fff,#7F79F9);
+  background: linear-gradient(0deg, #000,#000,#fff);
   background-repeat: no-repeat;
   background-size: 80%;
   animation: animate 10s linear infinite;
