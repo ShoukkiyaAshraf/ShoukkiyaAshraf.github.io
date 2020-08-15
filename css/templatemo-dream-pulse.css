@@ -682,6 +682,21 @@ figure.effect-bubba:hover p {
   .tm-section {
     padding: 15px;
   }
+  b {
+  padding-left: 150px;
+  position: relative;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  font-size: 2em;
+  letter-spacing: 4px;
+  overflow: hidden;
+  background: linear-gradient(270deg, #fff, #fff, #fff);
+  background-repeat: no-repeat;
+  background-size: 80%;
+  animation: animate 8s linear infinite;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0);
+}
 }
 
 @media (max-width: 383px) {
@@ -692,6 +707,21 @@ figure.effect-bubba:hover p {
   .tm-box-pad {
     padding: 50px 30px;
   }
+  b {
+  padding-left: 15px;
+  position: relative;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  font-size: 1.8em;
+  letter-spacing: 4px;
+  overflow: hidden;
+  background: linear-gradient(270deg, #fff, #fff, #fff);
+  background-repeat: no-repeat;
+  background-size: 80%;
+  animation: animate 8s linear infinite;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0);
+}
 }
 @media (max-width: 481px) {
   .tm-section {
@@ -700,4 +730,126 @@ figure.effect-bubba:hover p {
     width: 94%;
     margin:3%;
   }
+  b {
+  padding-left: 150px;
+  position: relative;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  font-size: 2em;
+  letter-spacing: 4px;
+  overflow: hidden;
+  background: linear-gradient(270deg, #fff, #fff, #fff);
+  background-repeat: no-repeat;
+  background-size: 80%;
+  animation: animate 8s linear infinite;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0);
+}
+}
+@media (max-width: 350px) {
+  .tm-section {
+    padding: 0;
+    float: left;
+    width: 94%;
+    }
+  .tm-section-title {
+  font-size: 1rem;
+}
+.parallax-window {
+  min-height: 451px;
+  background: transparent;
+  
+}
+body{
+  background-color: #FFF;
+}
+
+  p{
+    font-size: 12px;
+  }
+  b {
+  padding-left: 15px;
+  position: relative;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  font-size: 1.5em;
+  letter-spacing: 4px;
+  overflow: hidden;
+  background: linear-gradient(270deg,  #fff,#fff,#fff);
+  background-repeat: no-repeat;
+  background-size: 80%;
+  animation: animate 10s linear infinite;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0);
+}
+.tm-section-icon {
+  color: #7F79F9;
+  width: 120px;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.tm-brand {
+  font-size: 0.8rem;
+}
+
+.tm-brand-box {
+  box-sizing: content-box;
+  width: 100%;
+  max-width: 150px;
+  min-height: 120px;
+  color: white;
+  text-align: center;
+  margin: 50px auto 70px;
+}
+
+.tm-double-border-1,
+.tm-double-border-2 {
+  border: 1px solid #fff;
+  position: relative;
+}
+
+.tm-double-border-2 {
+  top: 8px;
+  left: 8px;
+}
+.tm-gallery-wrap {
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a{
+  font-size: 10px
+}
+.tm-gallery-item {
+  padding-left: 9px;
+  padding-right: 9px;
+}
+.nav-link {
+  font-size: 1rem;
+  padding-top: 6px;
+  padding-bottom: 9px;
+}
+.tm-main-nav {
+  margin-bottom: 50px;
+}
+
+.tm-social-link {
+  width: 25px;
+  height: 25px;
+  color: black;
+  background-color: white;
+  margin: 8px;
+  border-radius: 5px;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.tm-mm{
+  margin-top: 0px;
+}
 }
