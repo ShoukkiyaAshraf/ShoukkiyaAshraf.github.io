@@ -949,7 +949,7 @@ body{
   font-size: 2.7em;
   letter-spacing: 4px;
   overflow: hidden;
-  background: linear-gradient(0deg, #000,#000,#fff);
+  background: linear-gradient(0deg, #fff,#fff,#fff);
   background-repeat: no-repeat;
   background-size: 80%;
   animation: animate 10s linear infinite;
