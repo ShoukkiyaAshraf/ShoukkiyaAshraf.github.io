@@ -693,3 +693,11 @@ figure.effect-bubba:hover p {
     padding: 50px 30px;
   }
 }
+@media (max-width: 481px) {
+  .tm-section {
+    padding: 0;
+    float: left;
+    width: 94%;
+    margin:3%;
+  }
+}
