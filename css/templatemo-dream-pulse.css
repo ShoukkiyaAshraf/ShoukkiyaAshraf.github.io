@@ -926,7 +926,7 @@ a{
     width: 94%;
     }
   .tm-section-title {
-  font-size: 1rem;
+  font-size: 1.5rem;
 }
 .parallax-window {
   min-height: 500px;
@@ -943,6 +943,8 @@ font{
 }
   p{
     font-size: 15px;
+    align-items: center;
+
   }
   b {
   padding-left: 15px;
