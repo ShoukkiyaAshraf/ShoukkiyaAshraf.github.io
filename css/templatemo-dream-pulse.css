@@ -972,7 +972,7 @@ font{
   position: relative;
   font-family: sans-serif;
   text-transform: uppercase;
-  font-size: 2.7em;
+  font-size: 2.48em;
   letter-spacing: 4px;
   overflow: hidden;
   background: linear-gradient(0deg, #fff,#fff,#fff);
@@ -1068,18 +1068,19 @@ a{
 
 .tm-double-border-1,
 .tm-double-border-2 {
-  border: 1px solid  #7F79F9;
+  border: 1px solid  #707172;
   position: relative;
   height: 380px;
   width: 305px;
-  left: 25px;
   right: 25px;
+  left:30px;
+  align-items: center;
 }
 
 .tm-double-border-2 {
   top: 10px;
   left: 8px;
-  right: 8px;
+  right: 10px;
   
 }
 
