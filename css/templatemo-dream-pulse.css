@@ -931,14 +931,18 @@ a{
 .parallax-window {
   min-height: 500px;
   background: transparent;
+  overflow: hidden;
   
 }
 body{
   background-color: #FFF;
 }
 
+font{
+  size:1.8;
+}
   p{
-    font-size: 12px;
+    font-size: 15px;
   }
   b {
   padding-left: 15px;
@@ -979,16 +983,7 @@ body{
   margin: 50px auto 70px;
 }
 
-.tm-double-border-1,
-.tm-double-border-2 {
-  border: 1px solid #fff;
-  position: relative;
-}
 
-.tm-double-border-2 {
-  top: 8px;
-  left: 8px;
-}
 .tm-gallery-wrap {
   max-width: 700px;
   margin-left: auto;
@@ -996,7 +991,7 @@ body{
 }
 
 a{
-  font-size: 10px
+  font-size: 15px
 }
 .tm-gallery-item {
   padding-left: 9px;
