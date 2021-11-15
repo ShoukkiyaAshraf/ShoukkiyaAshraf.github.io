@@ -1,0 +1,130 @@
+.imgreduce {
+  width: 800px;
+}
+
+.dailycases {
+  padding-left: 300px;
+  padding-top: 100px;
+}
+
+.deathrate {
+  padding-left: 500px;
+  padding-top: 100px;
+}
+
+.contactcases {
+  padding-left: 400px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+#activedistric {
+  padding-left: 350px;
+  padding-top: 50px;
+}
+
+#districtcontib {
+  padding-right: 0px;
+  padding-left: 200px;
+}
+
+deathdistrict {
+  padding-left: 350px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.sizeincrease {
+  font-size: 1.2rem;
+  font-weight: inherit;
+}
+
+@media (min-width:768px) {
+  .sidebar {
+    width: 20rem!important;
+  }
+}
+
+.col-lg-7.col-xl-8.alighncenter {
+  padding-left: 500px;
+}
+
+.card-body.sizeincreasee {
+  width: 100%;
+  position: relative;
+}
+
+.overall {
+  padding-left: 200px;
+  padding-top: 100px;
+  padding-bottom: 150px;
+  width: 100rem;
+}
+
+.headingsize {
+  font-size: 1.5rem;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  align-items: center;
+  padding-left: 15px;
+}
+
+.container-fluid.adddistance {
+  padding-bottom: 200px;
+}
+
+.row.sizemax {
+  padding-top: 50px;
+}
+
+.pic {
+  padding-left: 350px;
+  padding-top: 100px;
+}
+
+.alert.alert-success.gap {
+  padding-top: 100px;
+  padding-left: 100px;
+}
+
+.gap {
+  padding-top: 100px;
+  padding-left: 100px;
+}
+
+.pica {
+  width: 100rem;
+  padding-left: 150px;
+}
+
+.moveright {
+  font-size: 17px;
+  align-items: end;
+  align-content: end;
+  position: relative;
+  padding-left: 1000px;
+}
+
+#deathdistrict {
+  padding-left: 350px;
+}
+
+.img {
+  vertical-align: middle;
+}
+
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+}
+
+.img {
+  vertical-align: middle;
+}
+
+.img-center {
+  vertical-align: middle;
+}
+
+title {
+  content: 'statewise';
+}
+
